@@ -3,7 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5906788247213779" />
+        <entry key="app/src/main/res/layout/activity_ods1.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_ods11.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_ods12.xml" value="0.12613981762917933" />
+        <entry key="app/src/main/res/layout/activity_ods13.xml" value="0.12613981762917933" />
+        <entry key="app/src/main/res/layout/activity_ods14.xml" value="0.12613981762917933" />
+        <entry key="app/src/main/res/layout/activity_ods15.xml" value="0.13496376811594202" />
+        <entry key="app/src/main/res/layout/activity_ods16.xml" value="0.13496376811594202" />
+        <entry key="app/src/main/res/layout/activity_ods17.xml" value="0.13496376811594202" />
+        <entry key="app/src/main/res/layout/activity_ods2.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_ods3.xml" value="0.11930091185410334" />
+        <entry key="app/src/main/res/layout/activity_ods4.xml" value="0.12613981762917933" />
+        <entry key="app/src/main/res/layout/activity_ods5.xml" value="0.12613981762917933" />
+        <entry key="app/src/main/res/layout/activity_ods6.xml" value="0.12613981762917933" />
+        <entry key="app/src/main/res/layout/activity_ods7.xml" value="0.12613981762917933" />
+        <entry key="app/src/main/res/layout/activity_ods8.xml" value="0.12613981762917933" />
+        <entry key="app/src/main/res/layout/activity_ods9.xml" value="0.12613981762917933" />
+        <entry key="app/src/main/res/layout/activity_quadro.xml" value="0.13496376811594202" />
       </map>
     </option>
   </component>

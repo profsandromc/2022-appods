@@ -10,6 +10,60 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppODS">
         <activity
+            android:name=".QuadroActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS17Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS16Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS15Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS14Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS13Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS12Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS11Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS8Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ODS1Activity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
